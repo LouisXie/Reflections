@@ -7,3 +7,10 @@ the directory be a repository rather than a ordinary
 directory.
 
 
+Working directory is some directory that you are doing
+work with, while the repository is a git version directory
+of your working directory. In between of these two 
+directories comes the staging area, which bridges the 
+gap between the working directory and the repository.
+
+

@@ -1,0 +1,38 @@
+After get the diff between two versions of a file,
+I just look through the diff report line by line
+and try to spot the bug.
+
+Because the report only gives the difference between
+these different versions, there will be no much 
+information. This helps me to look the report just 
+from the beginning to the end very quickly.
+
+When you have easy access to the entire history of a
+file, you can add, delete or do any other modification
+to the file at will, without any worry about losing
+file. Because whenever bad things happen, you can easily
+go to a previous version of the file, and start from 
+there again.
+
+Pros: This will make your versions history clear and
+organized. Because you can add a discriptive message
+to each logical commit. And as a result, the history 
+will not last too long.
+
+Cons: Sometimes you maybe forget to do commit.
+
+Because you only use Google to do some doc editing, and
+these docs are not related to each other. That is why 
+they should be treated separately. But when coding, most
+of the times some of the files you write will have relationship to others, and saving these files in one 
+commit will make your work more organized and easy access.
+
+When typing in the command git log, the whole commits history will show up. Then you can look through the history
+and try to find what you are looking for. After you find 
+the id of a specific commit, you can use command git diff
+to get the difference between this commit and the previous
+one.
+
+I think it really make me more confident to do changes 
+after I am able to use version control. Because I will not
+worry about if such changes will introduce some bugs.

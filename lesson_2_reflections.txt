@@ -1,0 +1,9 @@
+When a repository is initialized, a file named ".git"
+will be created in the same directory. After that, you
+can do commits and record the history of your files.
+
+Because only after you initializd a repository, can 
+the directory be a repository rather than a ordinary
+directory.
+
+

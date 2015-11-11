@@ -14,3 +14,7 @@ directories comes the staging area, which bridges the
 gap between the working directory and the repository.
 
 
+Before doing any commit, you can just check the difference
+between the staging area and the repository to see if
+there is only one different file. If yes, then you can 
+make sure that you have one commit per logical change.

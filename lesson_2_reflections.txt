@@ -26,3 +26,7 @@ you are not sure if the experiments are going to work
 or if you really want these new features. At these
 times, you can get a branch of your master branch and
 just do these experiments on you new branch.
+
+
+The diagrams list all the commits in all the branches,
+which makes the whole history visualilzable and clear.

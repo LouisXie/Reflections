@@ -30,3 +30,9 @@ just do these experiments on you new branch.
 
 The diagrams list all the commits in all the branches,
 which makes the whole history visualilzable and clear.
+
+
+After merging two branches, you will only get one branch
+left. And the branch left is the branch now checked out.
+
+

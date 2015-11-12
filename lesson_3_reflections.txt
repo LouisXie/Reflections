@@ -16,3 +16,6 @@ What is the benefit of having a copy of the last known state of the remote store
 	In this case, you can decide to keep which one when there are changes both remotely and locally.
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I will use email or some cloud-based service, like dropbox and Google drive. Also I can use Google docs. But certainly, without Git or GitHub, collaboration with other methods will be a little harder.
+

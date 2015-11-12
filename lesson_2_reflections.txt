@@ -36,3 +36,12 @@ After merging two branches, you will only get one branch
 left. And the branch left is the branch now checked out.
 
 
+Pros: Automatic merging will help you do the routine and
+time-consuming work and save a lot of time. But sometimes,
+automatic merging will come across some conflicts coming
+from the two different branches, and here comes the mannually
+merging.
+
+Cons: I cannot think of the cons of automatic merging.
+
+

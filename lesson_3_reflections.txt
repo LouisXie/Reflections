@@ -11,3 +11,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	Clones are some local repos which clone from remote repos or some local repos in a different location.
 	Branches are different version of your repos which are related to the master branch.
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	In this case, you can decide to keep which one when there are changes both remotely and locally.
+
+
